@@ -1,6 +1,5 @@
 # Olá, eu sou Daniel
 **Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
-Preparando-se para o mercado de tecnologia**
 
 ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
