@@ -5,6 +5,7 @@ Estudante de Desenvolvimento de Sistemas  Focado em Python, HTML e CSS
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
 - Interesse especial em programação e desenvolvimento de sistemas.
+- Contato: danielburnierganimi@gmail.com
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
