@@ -5,7 +5,7 @@ Estudante de Desenvolvimento de Sistemas  Focado em Python, HTML e CSS
 - 🎓Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
 - 🎯Sempre aprendendo novas tecnologias e boas práticas de programação
 - 🖥Interesse especial em programação e desenvolvimento de sistemas.
-- Contato: danielburnierganimi@gmail.com
+- 📫Contato: danielburnierganimi@gmail.com
 
 ## Tecnologias que estudo
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 </div>
 
-## Como me encontrar
+## 📫Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-burnier-4856152b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:danielburnierganimi@gmail.com) 
